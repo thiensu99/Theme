@@ -3,4 +3,4 @@
 
 Chủ đề này được dịch bởi @ThienSu.
 
-### Sau khi tải xuống thư mục chủ đề, bạn cần sửa đổi tên thư mục hiện tại thành `bob-argon`, rồi chọn chủ đề bob-argon trong nền.
+### Sau khi tải xuống thư mục chủ đề, bạn cần sửa đổi tên thư mục hiện tại thành `Bob-Theme-Argon`, rồi chọn chủ đề bob-argon trong nền.
